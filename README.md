@@ -1,4 +1,4 @@
-### [Hi there 👋](https://hattshire.uwu.email)
+### Hi there 👋
 I'm a software poet, but sometimes I also do electronics and cloud tinkering.
 
 <!--
