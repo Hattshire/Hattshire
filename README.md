@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 ## :bar_chart: GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hattshire&show_icons=true&count_private=true">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hattshire&hide=">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hattshire&hide=&layout=compact">
