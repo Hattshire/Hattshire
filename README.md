@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm a software poet, but sometimes I also do electronics and cloud tinkering.
+I'm an internet software poet, but sometimes I also do electronics and cloud tinkering.
+I'm language agnostic, I have my preferences, but I'm in for any challenge :shipit:
 
 <!--
 **Hattshire/Hattshire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
